@@ -1,0 +1,15 @@
+
+MR Construcciones - Sitio Web
+
+1. Sube todos los archivos a GitHub.
+2. Ve a Settings > Pages.
+3. Activa GitHub Pages con la rama main.
+4. Tu web aparecerá en:
+https://TUUSUARIO.github.io
+
+Coloca tus fotos en esta misma carpeta con estos nombres:
+cocina1.jpg
+cocina2.jpg
+cocina3.jpg
+cocina4.jpg
+porton1.jpg
